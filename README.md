@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/9e37e700-6bec-449c-b848-bf5a5a7a0c35
 ---
 
 ## 📦 Tech Stack
-- **Python**
+**Language**: Python
 - **Stable-Baselines3**
 - **Gymnasium**
 - **PyTorch**
